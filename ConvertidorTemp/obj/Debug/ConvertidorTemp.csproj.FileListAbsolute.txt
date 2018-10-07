@@ -1,0 +1,10 @@
+C:\Users\shary\Documents\Proyectos_NET\ConvertidorTemp\ConvertidorTemp\bin\Debug\ConvertidorTemp.exe.config
+C:\Users\shary\Documents\Proyectos_NET\ConvertidorTemp\ConvertidorTemp\bin\Debug\ConvertidorTemp.exe
+C:\Users\shary\Documents\Proyectos_NET\ConvertidorTemp\ConvertidorTemp\bin\Debug\ConvertidorTemp.pdb
+C:\Users\shary\Documents\Proyectos_NET\ConvertidorTemp\ConvertidorTemp\obj\Debug\ConvertidorTemp.csprojAssemblyReference.cache
+C:\Users\shary\Documents\Proyectos_NET\ConvertidorTemp\ConvertidorTemp\obj\Debug\ConvertidorTemp.Convertidor.resources
+C:\Users\shary\Documents\Proyectos_NET\ConvertidorTemp\ConvertidorTemp\obj\Debug\ConvertidorTemp.Properties.Resources.resources
+C:\Users\shary\Documents\Proyectos_NET\ConvertidorTemp\ConvertidorTemp\obj\Debug\ConvertidorTemp.csproj.GenerateResource.cache
+C:\Users\shary\Documents\Proyectos_NET\ConvertidorTemp\ConvertidorTemp\obj\Debug\ConvertidorTemp.csproj.CoreCompileInputs.cache
+C:\Users\shary\Documents\Proyectos_NET\ConvertidorTemp\ConvertidorTemp\obj\Debug\ConvertidorTemp.exe
+C:\Users\shary\Documents\Proyectos_NET\ConvertidorTemp\ConvertidorTemp\obj\Debug\ConvertidorTemp.pdb
